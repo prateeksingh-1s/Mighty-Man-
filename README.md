@@ -1,2 +1,4 @@
-# Mighty-Man-
-a super man going forward
+# Mighty.py
+print ("hello world.")
+print ("super man.")
+
